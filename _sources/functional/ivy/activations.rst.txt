@@ -19,5 +19,4 @@ Activations
    activations/sigmoid.rst
    activations/softmax.rst
    activations/softplus.rst
-   activations/swish.rst
 
